@@ -12,9 +12,7 @@ log.txt
 .vscode/
 npm-debug.log*
 
-package.json
-package-lock.json
-cloud-cdnd-c2-final.postman_collection.json
+
 
 
 .idea/
